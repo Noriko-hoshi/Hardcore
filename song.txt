@@ -7,3 +7,5 @@ Power! Get power!
 Girigiri genkai made
 
 second cout
+
+third cout
